@@ -1,1 +1,1 @@
-readme file in dir
+This file is mandatory in projects
